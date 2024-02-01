@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Header-container {
+    padding: 5px;
+    display:flex;
+    justify-content: center;
+}
+
+.header-menu {
+    width: 1100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.link-one {
+    margin-right: 20px;
+}
+
+.link-three {
+    margin-left: 20px;
+}
+
+    
