@@ -9,6 +9,7 @@
     padding: 5px;
     display:flex;
     justify-content: center;
+    background-color: #1F2937;
 }
 
 .header-menu {
@@ -30,4 +31,13 @@
     margin-left: 20px;
 }
 
+.header-logo {
+    color: #f9FAF8;
+    size: 24px;
+}
+
+.links {
+    color: #E5E7EB;
+    size: 18px;
+}
     
